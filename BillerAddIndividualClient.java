@@ -3,7 +3,7 @@
 * Test Data sheetName				 : BillerAddIndividualClient.
 * Objective     					 : verify to Add Individual Clients.
 * Version      						 : 1.0
-* Author       						 : Kathirvelu M
+* Author       						 : allu
 * Created Date 			      		 : 17/05/2023
 * Last Updated on					 : N/A
 * Updated By   			 			 : Basavaraj Mudnur
