@@ -6,7 +6,7 @@
 * Author       						 : amar
 * Created Date 			      		 : 29/05/2023
 * Last Updated on					 : N/A
-* Updated By   			 			 : Basavaraj Mudnur
+* Updated By   			 			 : Kathir
 * Pre-Conditions					 : 1)Biller Login Credentials. 
 * 									   2)Corporate client should be present.
 * Epic Details						 : N/A
