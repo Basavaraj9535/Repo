@@ -2,13 +2,8 @@
 * Test Script Name  				 : BillerAddCorporateClient
 * Objective     					 : Verify to Add Corporate Clients.
 * Version      						 : 1.0
-<<<<<<< HEAD
 * Author       						 : alluarjun
 * Author       						 : allu
-=======
-* Author       						 : Arun kuar ms
-* Author       						 : Basava
->>>>>>> parent of 79f1ca8 (My changes)
 * Created Date 			      		 : 16/05/2023
 * Last Updated on					 : N/A
 * Updated By   			 			 : Kathir 
