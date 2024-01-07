@@ -1,6 +1,5 @@
 /**
-* Test Script Name  				 : BillerAddCorporateClient.
-* Test Data sheet Name				 : BillerAddCorporateClient.
+* Test Script Name  				 : BillerAddCorporateClient
 * Objective     					 : Verify to Add Corporate Clients.
 * Version      						 : 1.0
 * Author       						 : Basava
