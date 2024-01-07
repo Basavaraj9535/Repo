@@ -6,7 +6,7 @@
 * Author       						 : allu
 * Created Date 			      		 : 17/05/2023
 * Last Updated on					 : N/A
-* Updated By   			 			 : Basavaraj Mudnur
+* Updated By   			 			 : Kathir
 * Pre-Conditions					 : 1)Biller Login Credentials.
 * Epic Details						 : N/A
 * User Story Details				 : N/A
